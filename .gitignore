@@ -1,0 +1,7 @@
+/node_modules
+node_modules
+/BACK-END/node_modules
+/FRONT-END/autoluby/node_modules
+.vscode
+BACK-END/.vscode
+FRONT-END/autoluby/.vscode
